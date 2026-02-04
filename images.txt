@@ -1,1 +1,2 @@
-openjdk:8-jdk
+eclipse-temurin:17.0.17_10-jre-ubi10-minimal
+eclipse-temurin:8u472-b08-jre-ubi10-minimal
