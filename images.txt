@@ -1,3 +1,2 @@
 nginx:stable-trixie
 jenkins/jenkins:latest
-openjdk:17
