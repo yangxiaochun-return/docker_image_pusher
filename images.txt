@@ -1,2 +1,1 @@
-nginx:stable-trixie
-jenkins/jenkins:latest
+openjdk:26-ea-17-trixie
