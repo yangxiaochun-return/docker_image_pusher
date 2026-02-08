@@ -1,1 +1,1 @@
-alpine:latest
+eclipse-temurin:17.0.18_8-jre-ubi9-minimal
